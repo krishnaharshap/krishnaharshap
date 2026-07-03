@@ -1,20 +1,16 @@
 # Krishna Harsha Puppala
 
-## **Quality Assurance Analyst | Risk-Based Testing | Automation & API Validation**
+## **QA Engineer | Risk-Based Testing | AI-Assisted Automation**
 
-QA Analyst with hands-on experience testing enterprise web and mobile applications in Agile environments. I focus on risk-based testing, prioritizing high-impact areas to improve early defect detection and ensure stable, production-ready releases.
+QA Engineer who applies risk-based testing to focus effort where defects matter most. Currently building automation frameworks with Playwright and TypeScript, and using Claude and Cursor to generate test cases, close coverage gaps, and speed up test authoring.
 
-## **Experience Focus**
-In my most recent experience, I owned end-to-end QA delivery across releases. This included test planning, automation, API validation, and close collaboration with developers, product owners, and business stakeholders to align testing with real-world workflows and reduce production risk.
-
-## **Core Expertise**
-- **Testing**: Functional, Regression, Integration, API, Performance
-- **Automation**: Selenium, TestNG, POM, Maven
-- **API & Data**: Postman, REST validation, SQL
-- **CI/CD**: Jenkins, Git, GitHub
-- **Tools**: JIRA, TestRail, Zephyr
+## **Core Skills**
+- Automation: Selenium, Playwright
+- API & Data: Postman, REST validation, SQL
+- CI/CD: GitHub Actions, Jenkins
+- AI-Assisted Testing: Claude and Cursor for test case generation, coverage review, and debugging
 
 ## **Current Work**
-- Contributing to open-source QA project: testzeus-hercules
-- Building automation frameworks using Playwright
-- Exploring scalable testing approaches with modern tooling (MCP-based workflows)
+- Using Claude and Cursor to generate and refine test cases from requirements
+- Building a Playwright and TypeScript framework from scratch at Walnut Insurance
+- Contributing to testzeus-hercules, an open-source QA project
